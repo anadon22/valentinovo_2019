@@ -1,0 +1,75 @@
+
+#header {
+  font-size: 68px;
+  margin-top: 50px;
+  font-weight: normal;
+}
+.msg {
+  font-style: italic;
+  font-size: 20px;
+  color: #f12469;
+}
+#button {
+  border-radius: 30px;
+  height: 40px;
+  width: 335px;
+  background-color: #f12469;
+  font-size: 20px;
+  color: #ffffff;
+  margin:0 auto;
+  padding-top: 15px;
+  margin-bottom: 50px;
+}
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  border-width: 20px;
+  border-style: solid;
+  border-color: #fcd2d8;
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.ml5 {
+  position: relative;
+  font-weight: 300;
+  font-size: 4.5em;
+  color: #402d2d;
+}
+
+.ml5 .text-wrapper2 {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+  line-height: 1em;
+}
+
+.ml5 .line {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 3px;
+  width: 100%;
+  background-color: #402d2d;
+  transform-origin: 0.5 0;
+}
+
+.ml5 .ampersand {
+  font-family: Baskerville, "EB Garamond", serif;
+  font-style: italic;
+  font-weight: 400;
+  width: 1em;
+  margin-right: -0.1em;
+  margin-left: -0.1em;
+}
+
+.ml5 .letters {
+  display: inline-block;
+  opacity: 0;
+}
